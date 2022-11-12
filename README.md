@@ -6,7 +6,7 @@ This adds SRT export in addition to the TXT transcription.  After running `trans
 * subtitles.srt
 
 ## To-DO
-- [] Automatic filename based on MP3 filename
+- [ ] Automatic filename based on MP3 filename
 
 ## Requirements
 
